@@ -12,4 +12,4 @@
 
 #Certificate Verification
 
-[Verifiy Certificate] (https://confirm.udacity.com/GJLHMNHW)
+Verifiy Certificate (https://confirm.udacity.com/GJLHMNHW)
