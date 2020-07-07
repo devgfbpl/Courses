@@ -1,5 +1,7 @@
 # Simplilearn - Data Scientist Master Program
 
+![Simplilearn](Simplilearn.png)
+
 ![Data Scientist](Data Scientist.png)
 
 # Courses of Data Scientist Master Programs
