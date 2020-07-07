@@ -4,7 +4,9 @@
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) IBM
 
-## Specialization Course Link: [https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai]
+## Specialization Course Link
+
+[IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 
 ## The courses enlisted in this specialization are as follows:
 
