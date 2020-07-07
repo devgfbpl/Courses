@@ -2,8 +2,6 @@
 
 ![Simplilearn](Simplilearn.png)
 
-![Data Scientist](Data Scientist.png)
-
 # Courses of Data Scientist Master Programs
 
 1. [Data Science Certification Training - R Programming]()
