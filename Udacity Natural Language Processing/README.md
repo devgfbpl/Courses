@@ -10,6 +10,6 @@
 
 3. [End-to-end Automatic Speech Recognition with Convolutional Neural Networks and Recurrent Neural Networks]()
 
-#Certificate Verification
+## Certificate Verification
 
-Verifiy Certificate (https://confirm.udacity.com/GJLHMNHW)
+[Verifiy Certificate](https://confirm.udacity.com/GJLHMNHW)
