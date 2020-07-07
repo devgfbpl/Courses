@@ -1,6 +1,6 @@
 # Udacity - Natural Language Processing Nanodegree
 
-![NLP](NLP.JPEG)
+![NLP](NLP-Degree.png)
 
 # Projects of Natural Language Processing
 
@@ -12,4 +12,4 @@
 
 #Certificate Verification
 
-Verifiy Certificate (https://confirm.udacity.com/GJLHMNHW)
+[Verifiy Certificate] (https://confirm.udacity.com/GJLHMNHW)
