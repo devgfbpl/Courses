@@ -1,6 +1,6 @@
-# Coursera-Machine-Learning-Andrew-NG
+# Coursera-Deep-Learning- Specialization
 
-Deep Learning Specialization, Andrew NG course.
+Deep Learning Specialization course by Andrew NG.
 
 ![Deep Learning](Deeplearning.png)
 
